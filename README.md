@@ -5,7 +5,7 @@ This repository is part of a **C# technical test** featuring **three separate pr
 
 - [🚗 Parking Lot Calculator 🚌](#-parking-lot-calculator-)
 - [📐 Geometric Figures 🧮](#-geometric-figures-)
-- [🛠️ Code Refactoring 🛠️](#-code-refactoring-)
+- [🛠️ Code Refactoring 🛠️](#%EF%B8%8F-code-refactoring-%EF%B8%8F)
 
 ---
 
